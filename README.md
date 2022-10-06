@@ -17,7 +17,7 @@ Jangan lupa untuk mengikuti github ku
 <p align="center"><img src="https://profile-counter.glitch.me/{Aiinne}/count.svg" alt="neoxr :: Visitor's Count" /></p>
 
 ## Heroku Buildpack
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aiinne/Aine-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/akoidaja/Aine-MD)
 
 | BuildPack | LINK |
 |--------|--------|
